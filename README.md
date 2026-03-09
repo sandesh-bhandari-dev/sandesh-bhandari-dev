@@ -1,10 +1,7 @@
-Hi, I'm Sandesh, an aspiring AI/ML engineer.
+Hey, I'm Sandesh. I'm an aspiring AI/ML engineer.
 
-I work primarily with:
+I mainly work with Python for ML models and agents and TypeScript for full stack apps.
 
-- Python for ML models and AI agents
-- TypeScript for full stack applications
+I am currently learning Rust and Mojo and building projects along the way.
 
-Currently learning Rust and Mojo while building projects.
-
-Open to collaboration!
+If you want to collab, feel free to reach out :)
